@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Frutas</string>
+
+    <string-array name="frutas">
+        <item>PIÑA</item>
+        <item>CHIRIMOYA</item>
+        <item>MANZANA</item>
+        <item>UVA</item>
+        <item>DURAZNO</item>
+        <item>FRUTILLA</item>
+        <item>MANDARINA</item>
+        <item>SANDÍA</item>
+        <item>NARANJA</item>
+        <item>KIWI</item>
+    </string-array>
+</resources>
